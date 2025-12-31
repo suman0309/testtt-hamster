@@ -21,7 +21,7 @@ export const MediaGallery: React.FC = () => {
       id: 'my-pic-2',
       type: 'image',
       // Reliable Party Image
-      url: 'public/WhatsApp Image 2025-12-31 at 10.37.14 PM.jpeg',
+      url: '/WhatsApp Image 2025-12-31 at 10.37.14 PM.jpeg',
       caption: 'Coconut vibes 🥥'
     },
     // {
@@ -35,21 +35,21 @@ export const MediaGallery: React.FC = () => {
       id: '4',
       type: 'image',
       // Reliable Hamster Image
-      url: 'public/WhatsApp Image 2025-12-31 at 10.37.15 PM.jpeg',
+      url: '/WhatsApp Image 2025-12-31 at 10.37.15 PM.jpeg',
       caption: 'So cute! 🐹'
     },
     {
       id: '5',
       type: 'image',
       // Reliable Love/Hearts Image
-      url: 'public/WhatsApp Image 2025-12-31 at 10.38.51 PM (1).jpeg',
+      url: '/WhatsApp Image 2025-12-31 at 10.38.51 PM (1).jpeg',
       caption: 'Forever ❤️'
     },
     {
       id: '6',
       type: 'image',
       // Reliable Love/Hearts Image
-      url: 'public/WhatsApp Image 2025-12-31 at 10.38.51 PM.jpeg',
+      url: '/WhatsApp Image 2025-12-31 at 10.38.51 PM.jpeg',
       caption: ''
     }
   ];
